@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="g-YF9lOLX_BcZsu5atzZ">
+    <mxGraphModel dx="2054" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TnHOnMOvKYUC9E9S14Lx-3" edge="1" parent="1" source="TnHOnMOvKYUC9E9S14Lx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TnHOnMOvKYUC9E9S14Lx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TnHOnMOvKYUC9E9S14Lx-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="100" width="150" x="130" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TnHOnMOvKYUC9E9S14Lx-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="STOP" vertex="1">
+          <mxGeometry height="100" width="150" x="130" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TnHOnMOvKYUC9E9S14Lx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Program 1&lt;div&gt;&lt;br&gt;Start -&amp;gt; Stop&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
